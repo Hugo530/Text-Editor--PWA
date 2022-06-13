@@ -14,7 +14,7 @@
 ## Description
 This is a text-editor PWA that can be installed locally. It has a serviceworker to allow for offline use, and it syncs back up when a connection is reestablished.
 
-[Deployed Application]()
+[Demo Video](https://drive.google.com/file/d/1bXraVQqh03wc0UqZDhtL2gOHSsXWiNqJ/view)
     
 ## License
 **MIT** - A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code. 
